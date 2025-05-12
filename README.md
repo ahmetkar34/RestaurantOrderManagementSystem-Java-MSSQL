@@ -32,6 +32,10 @@ Screenshots:
 
 ![12](https://github.com/user-attachments/assets/36eb7a62-91bf-42d5-966e-1b08b4fcf800)
 
+![image](https://github.com/user-attachments/assets/2b2abedb-c573-4a0d-a964-f55c48d01b79)
+
+![image](https://github.com/user-attachments/assets/b6a0205b-cf20-4517-b0a3-e695d970f0da)
+
 Database Tables:
 -----------------------
 ![image](https://github.com/user-attachments/assets/ec83a239-452d-4bca-b98b-6086ac4bee3e)
