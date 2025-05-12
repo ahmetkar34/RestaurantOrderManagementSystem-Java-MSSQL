@@ -8,45 +8,54 @@ A Java and MSSQL-based project using JDBC operations and OOP principles.
 
 Screenshots:
 -----------------------
-![1](https://github.com/user-attachments/assets/406d4ebb-2b6a-4102-836f-7985eccf754a)
+![1](https://github.com/user-attachments/assets/939e9ff5-a95b-4c04-a6bb-0b299cf81137)
 
-![2](https://github.com/user-attachments/assets/7446ca99-d63e-4bbb-9448-1abb4f7746eb)
+![2](https://github.com/user-attachments/assets/60fc08b4-6045-4f7a-9d43-21cc9fd4a589)
 
-![3](https://github.com/user-attachments/assets/804c2005-0499-4de6-9aca-040fdd64ef45)
+![3](https://github.com/user-attachments/assets/2203d493-6188-440b-acb7-b24406a6ba3f)
 
-![4](https://github.com/user-attachments/assets/bb34cdfe-3c4b-4a7d-9977-929f97cc2034)
+![4](https://github.com/user-attachments/assets/583e1d3c-8aa5-4abb-8b89-6fbf0a74d82e)
 
-![5](https://github.com/user-attachments/assets/d3e6f6d4-54a1-46cd-96f4-b545427101e3)
+![5](https://github.com/user-attachments/assets/85b0863d-4f61-41fc-9247-708fbbe575e4)
 
-![6](https://github.com/user-attachments/assets/454dc4f4-a0e9-41e4-aa3f-5e26f9ee22a0)
+![6](https://github.com/user-attachments/assets/796467ae-b1b5-4d8d-a53d-81a4a449ac11)
 
-![7](https://github.com/user-attachments/assets/ecd27252-6182-4b2e-9ad9-704e4b00bcc6)
+![7](https://github.com/user-attachments/assets/fc3d0994-4e24-44b0-b8dc-32c4cff9da4a)
 
-![8](https://github.com/user-attachments/assets/27ef8165-820f-4803-92d5-17da1b146e4a)
+![8](https://github.com/user-attachments/assets/7cb05903-7f1e-478d-ae4b-6692e97570de)
 
-![9](https://github.com/user-attachments/assets/c2673730-f67d-4a63-a871-4cb30996d221)
+![9](https://github.com/user-attachments/assets/337b6514-970b-4fa9-ba76-447ea05561ab)
 
-![10](https://github.com/user-attachments/assets/846606fb-97d2-440d-a617-6cc0410aca69)
+![10](https://github.com/user-attachments/assets/ab1d8636-9564-409b-9605-48922a781265)
 
-![11](https://github.com/user-attachments/assets/24765837-ef70-4892-91f8-7bb0c5cfbd3e)
+![11](https://github.com/user-attachments/assets/cd3df455-d175-41d5-add8-86280ddfa411)
 
-![12](https://github.com/user-attachments/assets/36eb7a62-91bf-42d5-966e-1b08b4fcf800)
+![12](https://github.com/user-attachments/assets/e01056e5-e1a0-4e72-86c1-d564922e50ba)
 
-![image](https://github.com/user-attachments/assets/2b2abedb-c573-4a0d-a964-f55c48d01b79)
+![13](https://github.com/user-attachments/assets/659bb4f8-5a3e-4a23-b543-efecfd4a0c1b)
 
-![image](https://github.com/user-attachments/assets/b6a0205b-cf20-4517-b0a3-e695d970f0da)
+![14](https://github.com/user-attachments/assets/ce810db4-63c1-4d72-97bb-9062c62e817d)
 
 Database Tables:
 -----------------------
-![image](https://github.com/user-attachments/assets/ec83a239-452d-4bca-b98b-6086ac4bee3e)
+![image](https://github.com/user-attachments/assets/5f6312e3-c659-4592-b230-61728d92c099)
 
-![image](https://github.com/user-attachments/assets/53cf0eee-f2d9-4d58-b835-ce22b7226d29)
+![image](https://github.com/user-attachments/assets/c96031c3-0f3c-4398-a235-664cb3337115)
 
-![image](https://github.com/user-attachments/assets/9472eed0-604d-44d2-8ebb-f16b33f0f1ce)
+![image](https://github.com/user-attachments/assets/af53908f-f9c5-4fd1-ae4d-c2259d9abaea)
 
-![image](https://github.com/user-attachments/assets/959a5ca4-ec38-4938-b953-ab7f98ada738)
+![image](https://github.com/user-attachments/assets/baaee004-df96-4908-86cc-f557c2d68120)
 
-![image](https://github.com/user-attachments/assets/bfaa0c72-1a05-48c1-ae54-b7812019fe84)
+![image](https://github.com/user-attachments/assets/549f8064-0a79-4a9f-a672-47101008ea11)
+
+![image](https://github.com/user-attachments/assets/b081cc36-a25a-44df-9f3c-2e60f9f14e67)
+
+
+
+
+
+
+
 
 
 
