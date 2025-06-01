@@ -38,15 +38,9 @@ Screenshots:
 
 Database Tables:
 -----------------------
-![image](https://github.com/user-attachments/assets/5f6312e3-c659-4592-b230-61728d92c099)
-
-![image](https://github.com/user-attachments/assets/c96031c3-0f3c-4398-a235-664cb3337115)
-
 ![image](https://github.com/user-attachments/assets/af53908f-f9c5-4fd1-ae4d-c2259d9abaea)
 
 ![image](https://github.com/user-attachments/assets/baaee004-df96-4908-86cc-f557c2d68120)
-
-![image](https://github.com/user-attachments/assets/549f8064-0a79-4a9f-a672-47101008ea11)
 
 ![image](https://github.com/user-attachments/assets/b081cc36-a25a-44df-9f3c-2e60f9f14e67)
 
